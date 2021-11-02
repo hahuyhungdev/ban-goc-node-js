@@ -1,3 +1,5 @@
+ import index.js ở route: khi nó là contructor function or class thì ta viết hoa chữ cái đầu, khi nó là đối tượng khởi tạo
+ từ biến hoặc class thì ta viết thường ( nó là dạng data, biến) 
  cach lấy giá trị với vòng for :for ( var key in oder(tên objects) ) {
                             console.log(key);
                           }
