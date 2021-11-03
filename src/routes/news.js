@@ -11,3 +11,4 @@ router.get("/:slug", NewsController.show);
 router.get("/", NewsController.index);
 
 module.exports = router;
+
