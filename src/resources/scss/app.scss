@@ -1,6 +1,7 @@
 @import'variables';
 body{
-    background-color: beige;
+    background-color: wheat;
+    font-size: 2rem!important;
 }
 h1{
     color: $red-color;
@@ -9,5 +10,12 @@ h2{
     color:coral;
 }
 h3{
-    color:darkmagenta;
+    color:red;
+}
+h4{
+    color:blue;
+}
+.top-link {
+    border-bottom: 1px solid red;
+    padding: 5px 0;
 }
